@@ -1,0 +1,14 @@
+{
+  "name": "vehiculos-api-mongo",
+  "version": "1.0.0",
+  "description": "API CRUD de vehículos con Node.js, Express y MongoDB",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.0",
+    "mongoose": "^8.0.0"
+  }
+}
