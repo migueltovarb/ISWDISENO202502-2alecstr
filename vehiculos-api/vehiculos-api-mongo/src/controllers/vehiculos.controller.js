@@ -6,7 +6,8 @@ const obtenerTodos = async (req, res) => {
     const vehiculos = await Vehiculo.find();
     res.json(vehiculos);
   } catch (error) {
-    res.status(500).json({ mensaje: 'Error al obtener vehículos' });
+    console.error('Error en obtenerTodos:', error);   // 👈 log importante
+    res.status(500).json({ mensaje: 'Error al obtener vehículos', error: error.message });
   }
 };
 
