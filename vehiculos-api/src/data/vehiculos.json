@@ -1,0 +1,37 @@
+[
+  {
+    "id": "691eb1fef75a147c4b1ec433",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2020,
+    "placa": "ABC123"
+  },
+  {
+    "id": "691eb25ef75a147c4b1ec434",
+    "marca": "Mazda",
+    "modelo": "3",
+    "anio": 2022,
+    "placa": "XYZ789"
+  },
+  {
+    "id": "vehic-001",
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2019,
+    "placa": "JKL456"
+  },
+  {
+    "id": "vehic-002",
+    "marca": "Renault",
+    "modelo": "Duster",
+    "anio": 2021,
+    "placa": "MNO789"
+  },
+  {
+    "id": "vehic-003",
+    "marca": "Kia",
+    "modelo": "Rio",
+    "anio": 2018,
+    "placa": "PQR321"
+  }
+]

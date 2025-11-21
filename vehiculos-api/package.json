@@ -1,0 +1,15 @@
+{
+  "name": "vehiculos-api",
+  "version": "1.0.0",
+  "description": "API REST CRUD de vehículos con Node.js, Express y archivos JSON",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "alecstr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
